@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Let's Chat Web App"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Let's Chat Web App"
+	}
+}
